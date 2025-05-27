@@ -1,1 +1,1 @@
-# pricing-1
+# pricing-monthly
